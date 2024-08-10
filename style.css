@@ -1,0 +1,31 @@
+h1{
+    color:purple;
+    text-decoration-line: underline;
+    text-decoration-color: purple;
+}
+h2{
+    color:purple;
+    text-decoration-line:underline;
+    text-decoration-color: purple;
+}
+h3{
+    color:purple;
+    text-decoration-line:underline;
+    text-decoration-color: purple;
+}
+h4{
+    color:purple;
+    text-decoration-line: underline;
+    text-decoration-color: purple;
+}
+p{
+    color:darkgreen;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+body{
+    background-color:blanchedalmond;
+}
