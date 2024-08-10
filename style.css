@@ -1,29 +1,30 @@
 h1{
     color:purple;
-    text-decoration-line: underline;
-    text-decoration-color: purple;
+    text-decoration-color:purple;
+    font-family: 'Times New Roman', Times, serif;
 }
 h2{
     color:purple;
-    text-decoration-line:underline;
     text-decoration-color: purple;
+    font-family: 'Times New Roman', Times, serif;
 }
 h3{
     color:purple;
-    text-decoration-line:underline;
     text-decoration-color: purple;
+    font-family: 'Times New Roman', Times, serif;
 }
 h4{
     color:purple;
-    text-decoration-line: underline;
     text-decoration-color: purple;
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
     color:darkgreen;
+    text-decoration-color: darkgreen;
 }
 p{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
     text-align: justify;
 }
 body{
